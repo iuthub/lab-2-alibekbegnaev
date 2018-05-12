@@ -1,0 +1,41 @@
+<html>
+<head>
+<title> About me </title>
+
+<link rel="stylesheet" type="text/css" href="style.css">
+
+<body>
+<header>
+<div class="row">
+	<div class="logo">
+		
+	</div>>
+	<ul class="main-nav"; style="list-style-type: none">
+		<li class="active"><a href=""> HOME </a></li>
+		<li ><a href=""> ABOUT </a></li>
+		<li ><a href=""> CONTACT </a></li>
+		<li ><a href=""> NEWS </a></li>
+		<li ><a href=""> QUATIONS </a></li>
+		<li ><a href=""> CO-FOUNDERS </a></li>
+	</ul>
+	<div class="hero">
+		<h1>About ME</h1>
+		<hr>
+<p> my name is Begnayev Alibek. I am the student of INHA Univercity</p>
+
+<h3>Moveis</h3>
+<ul style="list-style-type:none"><li> Avengers</li>
+<li> Hulk</li>
+<li> Tor</li></ul>
+
+<p> <img src= "D:\1.jpg" alt="Baby" style="width:128px;height:70px;"></p>
+
+	</div>
+	
+</div>
+ </header>
+
+
+</body>
+</head>
+</html>
